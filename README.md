@@ -7,7 +7,7 @@ This project replicates a McDonald's case study using Python. It involves data p
 - `mcdonalds.csv`: Dataset containing customer feedback on McDonald's products.
 - `FeynnLabs_Shreya_Prasad.ipynb`: Jupyter Notebook containing Python code for replication.
 - `README.md`: Description of the project.
-- `requirements.txt`: File containing the required Python libraries for replication.
+  
 
 ## Instructions:
 1. Install Python and required libraries.
