@@ -1,4 +1,4 @@
-![1630642907522](https://github.com/Shreyaprasad21/FeynnLabs_McDonaldsCaseStudy/assets/142075353/db086bd1-87b7-4e9e-a908-65beb5915ff5)
+![1686925688618](https://github.com/Shreyaprasad21/Market_Segmentation_McDonalds/assets/142075353/9069010d-b4d3-47b9-b7af-0d00eef56b80)
 
 # Market Segmentation: Unveiling Consumer Insights for McDonald's
 
