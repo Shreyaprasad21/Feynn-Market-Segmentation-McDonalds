@@ -9,7 +9,7 @@ During my internship at Feynn Labs, I had the chance to analyze a detailed datas
 Market segmentation is vital for McDonald's to ensure ongoing success. Here are some key insights:
 
 **Demographic Segmentation:** By analyzing age, gender, income, and family size, we identified a diverse consumer base, allowing McDonald's to customize menus and campaigns.
-
+                                                                                                                     
 **Psychographic Segmentation:** Examining lifestyle choices and values helped uncover unique segments. Health-conscious consumers prefer lighter menu options, while those seeking convenience value quick service and accessible locations.
 
 **Behavioral Segmentation:** By understanding consumer behaviors and purchase patterns, McDonald's can optimize operations and target promotions to specific time frames or menu items.
