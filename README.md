@@ -1,4 +1,3 @@
-![1686925688618](https://github.com/Shreyaprasad21/Market_Segmentation_McDonalds/assets/142075353/9069010d-b4d3-47b9-b7af-0d00eef56b80)
 
 # Market Segmentation: Unveiling Consumer Insights for McDonald's
 
